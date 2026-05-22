@@ -1,16 +1,94 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**connectharshonline-a11y/connectharshonline-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✨ Harsh Sharma
 
-Here are some ideas to get you started:
+### 🎨 UI • 💻 Frontend • 🌐 Web Experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+Creating clean, responsive, and modern interfaces with focus on simplicity and usability.
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About
+
+Frontend-focused developer passionate about building aesthetic and responsive web interfaces.
+
+I enjoy creating minimal UI systems, interactive layouts, dashboards, and modern web experiences using clean and maintainable code.
+
+---
+
+## 🛠️ Stack
+
+```txt
+🌐 HTML5 • 🎨 CSS3 • ⚡ JavaScript
+🧩 Bootstrap • 💨 Tailwind CSS
+🐘 PHP • 🟢 Node.js • 🗄️ MySQL
+🔧 Git • 🐙 GitHub • 🖥️ VS Code
+```
+
+---
+
+## 🚀 Projects
+
+### 🎓 College Dashboard
+
+Minimal administrative interface designed for educational management systems.
+
+### 🖼️ Dynamic Gallery System
+
+Responsive PHP & MySQL image gallery with upload management.
+
+### 📝 Quiz Platform
+
+Interactive and mobile-friendly quiz interface with clean layouts.
+
+### 📊 Admin & Analytics UI
+
+Modern dashboard concepts focused on usability and responsive design.
+
+---
+
+## 🎯 Design Approach
+
+```txt
+✨ Minimal
+📱 Responsive
+🧠 User-Centered
+🎨 Clean Layouts
+⚡ Modern Components
+🪄 Consistent Experience
+```
+
+---
+
+## 📚 Currently Learning
+
+* ⚡ Advanced JavaScript
+* 🎨 UI/UX Improvements
+* 🔗 API Integration
+* 🧩 Modern Frontend Architecture
+* ⚛️ React Ecosystem
+
+---
+
+## 🌐 Connect
+
+```txt
+🐙 GitHub    → your-link
+🌍 Portfolio → your-link
+💼 LinkedIn  → your-link
+📧 Email     → your-email
+```
+
+---
+
+<div align="center">
+
+```txt
+✨ Building interfaces that feel simple, fast, and modern.
+```
+
+</div>
