@@ -1,94 +1,181 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Harsh%20Sharma&fontSize=56&animation=fadeIn" alt="Header Banner" width="100%" />
-</p>
+# Hi there 👋 I'm Harsh Sharma
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="160" align="center" valign="top" style="border: none;">
-      <img src="https://github.com/connectharshonline-a11y.png" alt="Harsh Sharma" width="140" style="border-radius: 50%; display: block;" />
-    </td>
-    <td valign="top" style="border: none; padding-left: 20px;">
-      <h1 style="margin-top: 0;">Hi there, I'm Harsh! 👋</h1>
-      <p><strong>UI Engineer & Frontend Developer</strong></p>
-      <p>Welcome to my digital workspace! I specialize in designing fluid, responsive interface experiences, building clean frontend architectures, and working with data systems.</p>
-      <img src="https://komarev.com/ghpvc/?username=connectharshonline-a11y&icon=0&color=0" alt="Profile Views" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=UI+Engineer+%26+Frontend+Developer;Building+Modern+%26+Responsive+Interfaces;Crafting+Clean+User+Experiences;Always+Learning+%26+Improving" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 💫 About Me
+## 🚀 About Me
 
-🎨 **UI Engineering:** Building modern, accessible, and aesthetic user interfaces.
-⚡ **Responsive Design:** Focused on fluid frontend development across all screen sizes.
-🧩 **UX Optimization:** Creating clean, minimal, and highly interactive web experiences.
-📚 **Continuous Growth:** Constantly learning, iterating, and improving every project.
+🎨 Passionate about building modern, aesthetic, and accessible user interfaces  
+⚡ Focused on responsive frontend development across all screen sizes  
+🧩 Creating smooth, minimal, and highly interactive user experiences  
+📚 Constantly learning, experimenting, and improving every project  
+🌍 Based in India  
 
----
-
-## 💻 Tech Stack
-
-### 🎨 Frontend & UI Frameworks
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-### ⚙️ Core Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 📊 Data Science & Analytics
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+📩 Contact: **connect.harsh.online@gmail.com**
 
 ---
 
-## 🚀 Featured Projects
+## 🛠 Tech Stack
 
-Here are some of my favorite repositories. Click on a project card to explore the code!
+<div align="center">
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td style="border: none; padding-right: 10px;">
-      <a href="https://github.com/connectharshonline-a11y/YOUR-REPO-1">
-        <img src="https://github-readme-stats.shion.dev/api/pin/?username=connectharshonline-a11y&repo=YOUR-REPO-1&theme=dark" alt="Project 1" />
-      </a>
-    </td>
-    <td style="border: none; padding-left: 10px;">
-      <a href="https://github.com/connectharshonline-a11y/YOUR-REPO-2">
-        <img src="https://github-readme-stats.shion.dev/api/pin/?username=connectharshonline-a11y&repo=YOUR-REPO-2&theme=dark" alt="Project 2" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://reactjs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react" height="48" alt="React" />
+</a>
 
----
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" />
+</a>
 
-## 📊 Git Metrics & Charts
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+<img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5" />
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=connectharshonline-a11y&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Harsh's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=connectharshonline-a11y&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180" />
-</p>
+<a href="https://www.w3.org/TR/CSS/" target="_blank">
+<img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3" />
+</a>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=connectharshonline-a11y&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="TailwindCSS" />
+</a>
 
-### 📈 Weekly Activity Chart
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=connectharshonline-a11y&theme=github-dark-v2&area=true&category=commits" alt="Activity Graph" width="100%" />
-</p>
+<a href="https://getbootstrap.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=bootstrap" height="48" alt="Bootstrap" />
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="NodeJS" />
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=express" height="48" alt="Express" />
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL" />
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB" />
+</a>
+
+<a href="https://supabase.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=supabase" height="48" alt="Supabase" />
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" />
+</a>
+
+<a href="https://www.oracle.com/java/" target="_blank">
+<img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" />
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" />
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code" />
+</a>
+
+<a href="https://ubuntu.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=ubuntu" height="48" alt="Ubuntu" />
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux" />
+</a>
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-### 💼 Professional Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN) [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/YOUR-BEHANCE) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/YOUR-CODEPEN) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/YOUR-STACKOVERFLOW) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<div align="center">
 
-### 💬 Social Outlets
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/YOUR-BLUESKY) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/YOUR-X) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR-DISCORD)
+<a href="https://github.com/connectharshonline-a11y" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+</a>
+
+<a href="https://x.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" height="45" alt="Twitter/X"/>
+</a>
+
+<a href="https://discord.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=discord" height="45" alt="Discord"/>
+</a>
+
+<a href="https://www.youtube.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=youtube" height="45" alt="YouTube"/>
+</a>
+
+</div>
 
 ---
 
-## 💰 Support My Journey
+## 📊 GitHub Stats
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR-USERNAME) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/YOUR-USERNAME)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=connectharshonline-a11y&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=connectharshonline-a11y&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=connectharshonline-a11y&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=connectharshonline-a11y&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+## ☕ Support Me
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" alt="Buy Me A Coffee"/>
+</a>
+
+<br/><br/>
+
+<a href="https://ko-fi.com/">
+<img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="180" alt="Ko-fi"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Design. Build. Improve. Repeat.” ✨
+
+</div>
