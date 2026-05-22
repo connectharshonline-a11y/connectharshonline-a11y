@@ -1,17 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Harsh%20Sharma&fontSize=56&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Harsh%20Sharma&fontSize=56&animation=fadeIn" alt="Header Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/connectharshonline-a11y.png" alt="Harsh Sharma" width="150" style="border-radius: 50%;" />
-</p>
-
-<h1 align="center">Hi there, I'm Harsh! 👋</h1>
-<p align="center"><strong>UI Engineer & Frontend Developer</strong></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harsh%20Sharma&icon=0&color=0" alt="Profile Views" />
-</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="160" align="center" valign="top" style="border: none;">
+      <img src="https://github.com/connectharshonline-a11y.png" alt="Harsh Sharma" width="140" style="border-radius: 50%; display: block;" />
+    </td>
+    <td valign="top" style="border: none; padding-left: 20px;">
+      <h1 style="margin-top: 0;">Hi there, I'm Harsh! 👋</h1>
+      <p><strong>UI Engineer & Frontend Developer</strong></p>
+      <p>Welcome to my digital workspace! I specialize in designing fluid, responsive interface experiences, building clean frontend architectures, and working with data systems.</p>
+      <img src="https://komarev.com/ghpvc/?username=connectharshonline-a11y&icon=0&color=0" alt="Profile Views" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -39,17 +42,17 @@
 
 ## 🚀 Featured Projects
 
-Here are some of my favorite building blocks. Click on a project card to view the repository!
+Here are some of my favorite repositories. Click on a project card to explore the code!
 
-<table border="0">
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td>
-      <a href="https://github.com/connectharshonline-a11y/PROJECT-1-NAME">
+    <td style="border: none; padding-right: 10px;">
+      <a href="https://github.com/connectharshonline-a11y/YOUR-REPO-1">
         <img src="https://github-readme-stats.shion.dev/api/pin/?username=connectharshonline-a11y&repo=YOUR-REPO-1&theme=dark" alt="Project 1" />
       </a>
     </td>
-    <td>
-      <a href="https://github.com/connectharshonline-a11y/PROJECT-2-NAME">
+    <td style="border: none; padding-left: 10px;">
+      <a href="https://github.com/connectharshonline-a11y/YOUR-REPO-2">
         <img src="https://github-readme-stats.shion.dev/api/pin/?username=connectharshonline-a11y&repo=YOUR-REPO-2&theme=dark" alt="Project 2" />
       </a>
     </td>
@@ -61,12 +64,12 @@ Here are some of my favorite building blocks. Click on a project card to view th
 ## 📊 Git Metrics & Charts
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Harsh%20Sharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Harsh's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Harsh%20Sharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api?username=connectharshonline-a11y&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Harsh's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=connectharshonline-a11y&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Harsh%20Sharma&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=connectharshonline-a11y&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ### 📈 Weekly Activity Chart
@@ -79,13 +82,13 @@ Here are some of my favorite building blocks. Click on a project card to view th
 ## 🌐 Connect With Me
 
 ### 💼 Professional Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/d) [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/d) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/d) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/d) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN) [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/YOUR-BEHANCE) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/YOUR-CODEPEN) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/YOUR-STACKOVERFLOW) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ### 💬 Social Outlets
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/d) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/d) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/d)
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/YOUR-BLUESKY) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/YOUR-X) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR-DISCORD)
 
 ---
 
 ## 💰 Support My Journey
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/D) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/s)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR-USERNAME) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/YOUR-USERNAME)
